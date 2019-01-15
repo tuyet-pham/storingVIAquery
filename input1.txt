@@ -1,0 +1,15 @@
+potions.txt potions
+ingredients.txt ingredients
+
+INSERT((Red Mountain Flower|0.1|2|Yes|No|Mountains,Forests),ingredients)
+INSERT((Abecean Longfin|0.5|15|No|Yes|Rivers,Lakes),ingredients)
+INSERT((48|Glibness|Fortify|+20 Speechcraft for 60 seconds.|96|None|None),potions)
+UPDATE((Abecean Longfin|0.5|15|No|Yes|Rivers,Lakes,Swamps),ingredients)
+UPDATE((205|Minor Healing|Health|Restore 25 points of Health.|17|Blue Mountain Flower|Charred Skeever Hide),potions)
+UPDATE((206|Healing|Health|Restore 50 points of Health.|36|Blue Mountain Flower|Swamp Fungal Pod),potions)
+SELECT((9|*|*|*|*|*|*),potions)
+INSERT((Purple Mountain Flower|0.1|2|Yes|No|Mountains,Forests),ingredients)
+DELETE((62|Invisibility|Utility|Invisibility for 20 seconds.|214|Vampire Dust|Nirnroot),potions)
+DELETE((Vampire Dust|*|*|*|*|*),ingredients)
+DISPLAY()
+WRITE()

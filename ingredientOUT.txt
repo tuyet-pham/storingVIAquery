@@ -1,0 +1,7 @@
+NAME
+NAME,WEIGHT,VALUE,FLORA,FAUNA,LOCATIONS
+Abecean Longfin|0.5|15|No|Yes|Rivers,Lakes,Swamps
+Butterfly Wing|0.1|3|No|Yes|Forests,Plains,Mountains
+Red Mountain Flower|0.1|2|Yes|No|Mountains,Forests
+Creep Cluster|0.2|1|Yes|No|Volcanos,Lakes
+Purple Mountain Flower|0.1|2|Yes|No|Mountains,Forests

@@ -1,0 +1,10 @@
+ID
+ID,NAME,TYPE,EFFECT,COST,INGREDIENT1,INGREDIENT2
+23|Cure Disease|Cure|Cures all diseases.|79|Vampire Dust|Charred Skeever Hide
+205|Minor Healing|Health|Restore 25 points of Health.|17|Blue Mountain Flower|Butterfly Wing
+9|Regenerate Health|Health|Health regenerates 50% faster for 300 seconds.|311|Juniper Berries|Nordic Barnacle
+62|Invisibility|Utility|Invisibility for 20 seconds.|214|Vampire Dust|Nirnroot
+224|Minor Magicka|Magicka|Restore 25 points of Magicka|20|Creep Cluster|Red Mountain Flower
+231|Plentiful Stamina|Stamina|Restore 75 points of Stamina|69|Pine Thrush Egg|Purple Mountain Flower
+46|Waterbreathing|Utility|Can breathe underwater for 15 seconds.|46|Chicken's Egg|Nordic Barnacle
+33|Light Feet|Fortify|You are 10% harder to detect for 60 seconds.|45|Abecean Longfin|Purple Mountian Flower

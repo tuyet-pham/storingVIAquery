@@ -1,0 +1,27 @@
+Red Mountain Flower inserted into ingredients
+Abecean Longfin inserted into ingredients
+48 inserted into potions
+Abecean Longfin updated in ingredients
+205 updated in potions
+206 failed to update in potions
+9|Regenerate Health|Health|Health regenerates 50% faster for 300 seconds.|311|Juniper Berries|Nordic Barnacle
+Purple Mountain Flower failed to insert into ingredients
+62 deleted from potions
+Vampire Dust deleted from ingredients
+
+NAME			WEIGHT	VALUE	FLORA	FAUNA	LOCATIONS
+Purple Mountain Flower	0.1	2	Yes	No	Mountains,Forests
+Butterfly Wing		0.1	3	No	Yes	Forests,Plains,Mountains
+Creep Cluster		0.2	1	Yes	No	Volcanos,Lakes
+Red Mountain Flower	0.1	2	Yes	No	Mountains,Forests
+Abecean Longfin		0.5	15	No	Yes	Rivers,Lakes,Swamps
+
+ID	NAME			TYPE	EFFECT						COST	INGREDIENT1		INGREDIENT2
+23	Cure Disease		Cure	Cures all diseases.				79	Vampire Dust		Charred Skeever Hide
+205	Minor Healing		Health	Restore 25 points of Health.			17	Blue Mountain Flower	Charred Skeever Hide
+9	Regenerate Health	Health	Health regenerates 50% faster for 300 seconds.	311	Juniper Berries		Nordic Barnacle
+224	Minor Magicka		Magicka	Restore 25 points of Magicka			20	Creep Cluster		Red Mountain Flower
+231	Plentiful Stamina	Stamina	Restore 75 points of Stamina			69	Pine Thrush Egg		Purple Mountain Flower
+46	Waterbreathing		Utility	Can breathe underwater for 15 seconds.		46	Chicken's Egg		Nordic Barnacle
+33	Light Feet		Fortify	You are 10% harder to detect for 60 seconds.	45	Abecean Longfin		Purple Mountian Flower
+48	Glibness		Fortify	+20 Speechcraft for 60 seconds.			96	None			None

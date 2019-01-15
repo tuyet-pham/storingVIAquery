@@ -1,0 +1,8 @@
+
+*******************************  LOG EVENTS **************************
+
+
+[10.28.2018] 
+>> Fixed the displayTable, displayRow and displayColumn. Seems to be up and running alright.
+
+
